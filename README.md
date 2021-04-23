@@ -1,5 +1,7 @@
 # RESTAURANT DOCKER EXAMPLE
 
+for Gunnyung Lee
+
 ## For build
 `docker build -t existmaster/restaurant-rest .`
 
